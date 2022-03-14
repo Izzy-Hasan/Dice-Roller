@@ -1,13 +1,10 @@
 # dice-roller
-<! ––
+
 Izzat Hasan
 Dice Roller
 Izzathasan@lewisu.edu
 
-All content in this project is original and is my work except for the Dice images changing with the amount of dice rolled.
-I wanted to have the image of the dice to apear with the amount that was rolled, therefore, I did some research and I found a youtube
-video explaining how this task can be preformed
-source: https://youtu.be/6CMfZkLntX8
+Match the Dice to Win!
 
 Required files include:
 Index.html,
